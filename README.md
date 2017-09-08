@@ -27,6 +27,7 @@ R CMD INSTALL DIMMSC_*.*.*.tar.gz
 ## Usage
 ```
 DIMMSC(data, K = 2, method_cluster_initial = "kmeans", method_alpha_initial = "Ronning", maxiter = 200, tol = 1e-04, lik.tol = 0.01, customized_initial = NULL)
+
 plot_tsne_clusters(data, cluster)
 ```
 
