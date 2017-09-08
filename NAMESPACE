@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+import(stats)
+import(cellrangerRkit)
+useDynLib(DIMMSC)

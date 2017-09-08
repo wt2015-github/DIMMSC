@@ -1,0 +1,20 @@
+Package: DIMMSC
+Type: Package
+Title: Clustering droplet-based single cell transcriptomic data using
+        Dirichlet mixture prior and EM algorithm
+Version: 0.2.1
+Date: 2017-08-17
+Author: Zhe Sun, Ting Wang, Ark Fang
+Maintainer: Zhe Sun <zhs31@pitt.edu>, Ting Wang <tiw33@pitt.edu>, Ark Fang <zhf9@pitt.edu>
+Description: DIMMSC is for clustering droplet-based single cell transcriptomic data using Dirichlet mixture prior and EM algorithm.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+URL: http://www.pitt.edu/~wec47/singlecell.html
+Depends: dirmult, cellrangerRkit, Rcpp, RcppArmadillo
+Imports: dirmult, cellrangerRkit, Rcpp, RcppArmadillo
+LinkingTo: dirmult, cellrangerRkit, Rcpp, RcppArmadillo
+RoxygenNote: 6.0.1
+SystemRequirements: C++11
+NeedsCompilation: yes
+Packaged: 2017-08-18 21:22:30 UTC; wangt5
