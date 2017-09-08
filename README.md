@@ -1,5 +1,7 @@
 # DIMMSC
-An R package for clustering droplet-based single cell transcriptomic data
+An R package for clustering droplet-based single cell transcriptomic data.
+
+Version: 0.2.1 (Date: 2017-08-17)
 
 [Homepage @ Github](http://wt2015-github.github.io/DIMMSC/) | [Homepage @ Wei Chen's Lab](http://www.pitt.edu/~wec47/singlecell.html) | [Source Code](https://github.com/wt2015-github/DIMMSC)
 
