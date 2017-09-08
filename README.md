@@ -13,7 +13,7 @@ Install third-party R package [*cellrangerRkit*](https://support.10xgenomics.com
 
 Install DIMMSC with R command
 ```
-install.packages(pkgs = "DIMMSC_*.*.*.tar.gz", repos = NULL, type = "source")
+install.packages(pkgs = "DIMMSC.tar.gz", repos = NULL, type = "source")
 
 # Or install from GitHub
 library(devtools)
@@ -21,7 +21,7 @@ install_github("wt2015-github/DIMMSC")
 ```
 Or terminal command
 ```
-R CMD INSTALL DIMMSC_*.*.*.tar.gz
+R CMD INSTALL DIMMSC.tar.gz
 ```
 
 ## Usage
