@@ -6,10 +6,10 @@ An R package for clustering droplet-based single cell transcriptomic data
 ## Introduction
 **DIMMSC** is an R package for clustering droplet-based single cell transcriptomic data. It uses Dirichlet mixture prior to characterize variations across different clusters. An expectation-maximization algorithm is used for parameter inference. This package can provide clustering uncertainty.
 
-**plot_tsne_clusters** performs log2 normalization, PCA and t-SNE on the data and plot clusters on the t-SNE projection
+**plot_tsne_clusters** performs log2 normalization, PCA and t-SNE on the data and plot clusters on the t-SNE projection.
 
 ## Installation
-Install third-party R package [cellrangerRkit](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/rkit) from 10X Genomics.
+Install third-party R package [*cellrangerRkit*](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/rkit) from 10X Genomics.
 
 Install DIMMSC with R command
 ```
