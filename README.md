@@ -71,4 +71,4 @@ plot_tsne_clusters(data=data_DIMMSC, cluster=result$mem)
 * Zhe Sun, **Ting Wang**, Ke Deng, Xiao-Feng Wang, Robert Lafyatis, Ying Ding, Ming Hu, Wei Chen. DIMM-SC: A Dirichlet mixture model for clustering droplet-based single cell transcriptomic data. *Bioinformatics* 2017.
 
 ## Contact
-[Ting Wang](http://wt2015-github.github.io/) ([email](wang9ting@gmail.com)), [Wei Chen](http://www.pitt.edu/~wec47/index.html) ([email](wei.chen@chp.edu)).
+[Ting Wang](http://wt2015-github.github.io/) (wang9ting@gmail.com), [Wei Chen](http://www.pitt.edu/~wec47/index.html).
