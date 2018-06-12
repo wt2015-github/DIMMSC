@@ -53,6 +53,7 @@ DIMMSC returns a list object containing:
 * *loglik* : the final log likelihood after iterations
 * *AIC* : Akaike information criterion (AIC)
 * *BIC* : Bayesian information criterion (BIC)
+
 plot_tsne_clusters outputs a figure of t-SNE and clusters
 
 ## Example:
